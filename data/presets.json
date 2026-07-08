@@ -32,7 +32,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype marine taxonomy plate of layered kelp fronds arranged with numbered specimen labels, white negative silhouettes on deep Prussian blue, deckled handmade paper, uneven sensitizer edges, 19th-century scientific archive mood\nVisual direction: 19th-century marine taxonomy plate; deep Prussian blue; deckled handmade paper, uneven sensitizer edges.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: scientific botanical image.\nConstraints: avoid full color underwater photography, tropical fish, glossy poster, neon colors, 3d render, cartoon seaweed. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype marine taxonomy plate of layered kelp fronds arranged with numbered specimen labels, white negative silhouettes on deep Prussian blue, deckled handmade paper, uneven sensitizer edges, 19th-century scientific archive mood\nKeep the visual system coherent: deep Prussian blue, deckled handmade paper, uneven sensitizer edges, 19th-century marine taxonomy plate.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: full color underwater photography, tropical fish, glossy poster, neon colors, 3d render, cartoon seaweed."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/atlantic-kelp-taxonomy.webp"
   },
   {
     "id": 2,
@@ -67,7 +67,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype laboratory specimen sheet of thin root systems and cut stems, precise white silhouettes on indigo blue, small handwritten field labels, soft exposure halos, chemical stains, quiet research archive aesthetic\nVisual direction: laboratory specimen sheet; indigo blue; chemical stains, soft exposure halos.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: botanical archive poster.\nConstraints: avoid green botanical photo, colorful soil, digital vector diagram, glossy medical chart, artificial plant. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype laboratory specimen sheet of thin root systems and cut stems, precise white silhouettes on indigo blue, small handwritten field labels, soft exposure halos, chemical stains, quiet research archive aesthetic\nKeep the visual system coherent: indigo blue, chemical stains, soft exposure halos, laboratory specimen sheet.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: green botanical photo, colorful soil, digital vector diagram, glossy medical chart, artificial plant."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/root-and-stem-laboratory.webp"
   },
   {
     "id": 3,
@@ -102,7 +102,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype field notebook page of ordinary roadside weeds pressed beside torn paper annotations, white botanical silhouettes on cyanotype blue, aged paper grain, irregular borders, humble natural history archive mood\nVisual direction: rural field notebook; cyanotype blue; aged paper grain, irregular borders.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: field note style image.\nConstraints: avoid polished flower catalog, colorful garden photography, luxury stationery mockup, clean digital illustration, glossy paper. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype field notebook page of ordinary roadside weeds pressed beside torn paper annotations, white botanical silhouettes on cyanotype blue, aged paper grain, irregular borders, humble natural history archive mood\nKeep the visual system coherent: cyanotype blue, aged paper grain, irregular borders, rural field notebook.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: polished flower catalog, colorful garden photography, luxury stationery mockup, clean digital illustration, glossy paper."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/pressed-weed-field-notes.webp"
   },
   {
     "id": 4,
@@ -137,7 +137,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype specimen plate combining moth wing outlines with night-blooming flower silhouettes, white negative forms on deep cobalt blue, faint paper fibers, chemical fog, antique entomology archive aesthetic\nVisual direction: entomology and botany archive; deep cobalt blue; faint paper fibers, chemical fog.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: specimen art print.\nConstraints: avoid colorful butterfly photo, horror insects, neon glow, fantasy wings, glossy 3d render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype specimen plate combining moth wing outlines with night-blooming flower silhouettes, white negative forms on deep cobalt blue, faint paper fibers, chemical fog, antique entomology archive aesthetic\nKeep the visual system coherent: deep cobalt blue, faint paper fibers, chemical fog, entomology and botany archive.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful butterfly photo, horror insects, neon glow, fantasy wings, glossy 3d render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/nocturnal-moth-botany.webp"
   },
   {
     "id": 5,
@@ -172,7 +172,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Minimal cyanotype seed bank archive of winter seed pods arranged in a strict grid, white silhouettes on Prussian blue, dry matte paper texture, uneven coating edge, austere preservation record mood\nVisual direction: seed preservation archive; Prussian blue; dry matte paper, uneven coating edge.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: minimal botanical poster.\nConstraints: avoid colorful seed packet design, gardening advertisement, glossy infographic, cartoon plants, saturated green. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Minimal cyanotype seed bank archive of winter seed pods arranged in a strict grid, white silhouettes on Prussian blue, dry matte paper texture, uneven coating edge, austere preservation record mood\nKeep the visual system coherent: Prussian blue, dry matte paper, uneven coating edge, seed preservation archive.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful seed packet design, gardening advertisement, glossy infographic, cartoon plants, saturated green."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/winter-seed-bank.webp"
   },
   {
     "id": 6,
@@ -207,7 +207,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Comparative cyanotype classification sheet of several fern species, different white frond silhouettes aligned on deep indigo blue, small taxonomy marks, hand-coated paper texture, restrained scientific beauty\nVisual direction: comparative botanical classification; deep indigo blue; hand-coated paper.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: archive wall art.\nConstraints: avoid tropical jungle scene, green leaves, colorful botanical illustration, glossy wall mockup, clean vector poster. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Comparative cyanotype classification sheet of several fern species, different white frond silhouettes aligned on deep indigo blue, small taxonomy marks, hand-coated paper texture, restrained scientific beauty\nKeep the visual system coherent: deep indigo blue, hand-coated paper, comparative botanical classification.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: tropical jungle scene, green leaves, colorful botanical illustration, glossy wall mockup, clean vector poster."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/fern-shadow-classification.webp"
   },
   {
     "id": 7,
@@ -242,7 +242,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Korean cyanotype art print of sparse wild grasses on fibrous hanji paper, white negative silhouettes over jjokbit blue, brushed pigment edges, natural indigo dye mood, quiet Joseon scholar aesthetic\nVisual direction: Korean natural dye minimalism; jjokbit blue; fibrous hanji paper, brushed pigment edge.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: Korean art print.\nConstraints: avoid bright modern K-pop colors, glossy poster, synthetic paper, cartoon grass, tourist souvenir style. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Korean cyanotype art print of sparse wild grasses on fibrous hanji paper, white negative silhouettes over jjokbit blue, brushed pigment edges, natural indigo dye mood, quiet Joseon scholar aesthetic\nKeep the visual system coherent: jjokbit blue, fibrous hanji paper, brushed pigment edge, Korean natural dye minimalism.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: bright modern K-pop colors, glossy poster, synthetic paper, cartoon grass, tourist souvenir style."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/hanji-jjokbit-wild-grass.webp"
   },
   {
     "id": 8,
@@ -277,7 +277,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype-inspired Korean still life with a moon jar silhouette and a faint plum branch shadow, white negative form on soft indigo blue hanji, subtle water stains, serene craft archive composition\nVisual direction: Korean ceramic silhouette; soft indigo blue; hanji grain, subtle water stains.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: heritage object image.\nConstraints: avoid full color porcelain photography, luxury showroom, glossy ceramic render, gold decoration, colorful floral vase. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype-inspired Korean still life with a moon jar silhouette and a faint plum branch shadow, white negative form on soft indigo blue hanji, subtle water stains, serene craft archive composition\nKeep the visual system coherent: soft indigo blue, hanji grain, subtle water stains, Korean ceramic silhouette.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: full color porcelain photography, luxury showroom, glossy ceramic render, gold decoration, colorful floral vase."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/moon-jar-indigo-shadow.webp"
   },
   {
     "id": 9,
@@ -312,7 +312,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype reinterpretation of Korean bojagi patchwork, white seam geometry and leaf shadows over natural indigo and Prussian blue, woven cloth grain, uneven dye absorption, contemporary heritage textile concept\nVisual direction: Korean patchwork textile abstraction; natural indigo and Prussian blue; woven cloth grain, uneven dye.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: textile pattern concept.\nConstraints: avoid rainbow patchwork, glossy fashion catalog, plastic fabric, cartoon quilt, mass-produced pattern. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype reinterpretation of Korean bojagi patchwork, white seam geometry and leaf shadows over natural indigo and Prussian blue, woven cloth grain, uneven dye absorption, contemporary heritage textile concept\nKeep the visual system coherent: natural indigo and Prussian blue, woven cloth grain, uneven dye, Korean patchwork textile abstraction.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: rainbow patchwork, glossy fashion catalog, plastic fabric, cartoon quilt, mass-produced pattern."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/bojagi-indigo-folds.webp"
   },
   {
     "id": 10,
@@ -347,7 +347,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype field archive of Jeju wind-bent grasses and basalt stone outlines, white negative silhouettes on jjokbit indigo hanji, rough paper fibers, mineral stains, restrained Korean island landscape mood\nVisual direction: Korean island field archive; jjokbit indigo; rough hanji, mineral stains.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: regional landscape prompt.\nConstraints: avoid tourism brochure, colorful beach, sunset landscape, glossy travel poster, volcanic 3d render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype field archive of Jeju wind-bent grasses and basalt stone outlines, white negative silhouettes on jjokbit indigo hanji, rough paper fibers, mineral stains, restrained Korean island landscape mood\nKeep the visual system coherent: jjokbit indigo, rough hanji, mineral stains, Korean island field archive.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: tourism brochure, colorful beach, sunset landscape, glossy travel poster, volcanic 3d render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/jeju-wind-grass-archive.webp"
   },
   {
     "id": 11,
@@ -382,7 +382,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Korean cyanotype shadow study of bamboo leaves and wooden lattice patterns from a quiet hanok courtyard, white contact-exposure marks on deep jjokbit blue hanji, meditative architectural stillness\nVisual direction: hanok courtyard shadow study; deep jjokbit blue; hanji paper and sun exposure marks.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: architectural heritage image.\nConstraints: avoid real estate interior, colorful hanok tourist photo, glossy wood render, cartoon bamboo, neon night lighting. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Korean cyanotype shadow study of bamboo leaves and wooden lattice patterns from a quiet hanok courtyard, white contact-exposure marks on deep jjokbit blue hanji, meditative architectural stillness\nKeep the visual system coherent: deep jjokbit blue, hanji paper and sun exposure marks, hanok courtyard shadow study.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: real estate interior, colorful hanok tourist photo, glossy wood render, cartoon bamboo, neon night lighting."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/bamboo-courtyard-exposure.webp"
   },
   {
     "id": 12,
@@ -417,7 +417,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Cyanotype poster blending abstract Korean calligraphic strokes with pressed leaf silhouettes, white negative botanical traces on Prussian blue and jjokbit hanji, ink bleed texture, refined contemporary heritage aesthetic\nVisual direction: calligraphic botanical fusion; Prussian blue and jjokbit; ink bleed on hanji.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: graphic art poster.\nConstraints: avoid literal readable text, bright calligraphy banner, glossy logo design, cartoon brush stroke, gold ink. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Cyanotype poster blending abstract Korean calligraphic strokes with pressed leaf silhouettes, white negative botanical traces on Prussian blue and jjokbit hanji, ink bleed texture, refined contemporary heritage aesthetic\nKeep the visual system coherent: Prussian blue and jjokbit, ink bleed on hanji, calligraphic botanical fusion.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: literal readable text, bright calligraphy banner, glossy logo design, cartoon brush stroke, gold ink."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-calligraphy-plant-trace.webp"
   },
   {
     "id": 13,
@@ -452,7 +452,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Artisan ceramic cup mockup decorated with a cyanotype-style white botanical negative motif on Prussian blue glaze band, matte off-white ceramic, handmade paper backdrop, soft daylight product photography\nVisual direction: artisan product photography; Prussian blue on off-white ceramic; matte ceramic, handmade paper backdrop.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: ceramic product mockup.\nConstraints: avoid mass-market mug photo, bright multicolor graphics, glossy plastic, cartoon illustration, busy cafe background. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Artisan ceramic cup mockup decorated with a cyanotype-style white botanical negative motif on Prussian blue glaze band, matte off-white ceramic, handmade paper backdrop, soft daylight product photography\nKeep the visual system coherent: Prussian blue on off-white ceramic, matte ceramic, handmade paper backdrop, artisan product photography.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: mass-market mug photo, bright multicolor graphics, glossy plastic, cartoon illustration, busy cafe background."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/ceramic-cup-cyanotype-mockup.webp"
   },
   {
     "id": 14,
@@ -487,7 +487,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Vinyl record sleeve mockup with cyanotype plant silhouettes and minimal white typography on deep cobalt blue matte paper, subtle chemical stains, archival music object aesthetic, clean studio composition\nVisual direction: experimental record sleeve; deep cobalt blue; matte paper sleeve, chemical stains.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: music packaging mockup.\nConstraints: avoid colorful album art, glossy plastic wrap, celebrity portrait, neon concert poster, 3d render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Vinyl record sleeve mockup with cyanotype plant silhouettes and minimal white typography on deep cobalt blue matte paper, subtle chemical stains, archival music object aesthetic, clean studio composition\nKeep the visual system coherent: deep cobalt blue, matte paper sleeve, chemical stains, experimental record sleeve.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful album art, glossy plastic wrap, celebrity portrait, neon concert poster, 3d render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/vinyl-sleeve-blueprint-edition.webp"
   },
   {
     "id": 15,
@@ -522,7 +522,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Minimal glass candle jar mockup with an indigo cyanotype label showing a white pressed herb silhouette, cotton label paper texture, soft glass reflection, quiet premium craft product photography\nVisual direction: premium craft label; indigo blue label; cotton label paper, soft glass reflection.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: home fragrance product mockup.\nConstraints: avoid bright scented candle ad, colorful wax, glossy luxury gold foil, cluttered props, cartoon label. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Minimal glass candle jar mockup with an indigo cyanotype label showing a white pressed herb silhouette, cotton label paper texture, soft glass reflection, quiet premium craft product photography\nKeep the visual system coherent: indigo blue label, cotton label paper, soft glass reflection, premium craft label.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: bright scented candle ad, colorful wax, glossy luxury gold foil, cluttered props, cartoon label."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/artisan-candle-indigo-label.webp"
   },
   {
     "id": 16,
@@ -557,7 +557,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Camera strap product mockup made from dark indigo woven cotton with white cyanotype leaf photogram pattern, placed beside a vintage camera on raw paper, refined heritage accessory photography\nVisual direction: heritage camera accessory; dark indigo textile; woven cotton, cyanotype print texture.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: accessory product mockup.\nConstraints: avoid modern electronics ad, colorful nylon strap, glossy tech render, crowded desk, cartoon camera. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Camera strap product mockup made from dark indigo woven cotton with white cyanotype leaf photogram pattern, placed beside a vintage camera on raw paper, refined heritage accessory photography\nKeep the visual system coherent: dark indigo textile, woven cotton, cyanotype print texture, heritage camera accessory.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: modern electronics ad, colorful nylon strap, glossy tech render, crowded desk, cartoon camera."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-camera-strap.webp"
   },
   {
     "id": 17,
@@ -592,7 +592,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Collectible matchbox set mockup with Prussian blue cyanotype panels and white botanical negative motifs on rough kraft paper, letterpress feel, arranged in a paper tray, tasteful stationery object photo\nVisual direction: collectible paper goods; Prussian blue print on kraft paper; rough kraft paper, letterpress feel.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: small goods packaging mockup.\nConstraints: avoid fireworks, flames, colorful toy packaging, glossy plastic, cartoon graphics. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Collectible matchbox set mockup with Prussian blue cyanotype panels and white botanical negative motifs on rough kraft paper, letterpress feel, arranged in a paper tray, tasteful stationery object photo\nKeep the visual system coherent: Prussian blue print on kraft paper, rough kraft paper, letterpress feel, collectible paper goods.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: fireworks, flames, colorful toy packaging, glossy plastic, cartoon graphics."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/botanical-matchbox-set.webp"
   },
   {
     "id": 18,
@@ -627,7 +627,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Contemporary tableware set mockup with cobalt blue cyanotype botanical silhouettes across matte ceramic plates and bowls, white negative print details, soft overhead studio lighting, refined craft dining product concept\nVisual direction: contemporary ceramic tableware; cobalt blue and white; matte ceramic, contact-print pattern.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: tableware product concept.\nConstraints: avoid restaurant scene, colorful food photography, glossy porcelain catalog, ornate gold rim, cartoon dishes. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Contemporary tableware set mockup with cobalt blue cyanotype botanical silhouettes across matte ceramic plates and bowls, white negative print details, soft overhead studio lighting, refined craft dining product concept\nKeep the visual system coherent: cobalt blue and white, matte ceramic, contact-print pattern, contemporary ceramic tableware.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: restaurant scene, colorful food photography, glossy porcelain catalog, ornate gold rim, cartoon dishes."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/blueprint-tableware-set.webp"
   },
   {
     "id": 19,
@@ -662,7 +662,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Hardcover book mockup bound in deep Prussian blue cloth with a white cyanotype branch silhouette and restrained serif title, uncoated paper grain, literary archive design, quiet studio product shot\nVisual direction: literary cover design; deep Prussian blue; uncoated book cloth, paper grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: publishing mockup.\nConstraints: avoid colorful paperback, glossy thriller cover, fantasy character art, neon typography, 3d book pile render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Hardcover book mockup bound in deep Prussian blue cloth with a white cyanotype branch silhouette and restrained serif title, uncoated paper grain, literary archive design, quiet studio product shot\nKeep the visual system coherent: deep Prussian blue, uncoated book cloth, paper grain, literary cover design.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful paperback, glossy thriller cover, fantasy character art, neon typography, 3d book pile render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-book-cover-mockup.webp"
   },
   {
     "id": 20,
@@ -697,7 +697,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Natural soap bar mockup wrapped in recycled indigo paper printed with a white cyanotype herbal silhouette, uneven ink absorption, twine detail, calm apothecary product photography\nVisual direction: natural apothecary product; indigo paper wrap; recycled paper, uneven ink absorption.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: bath product mockup.\nConstraints: avoid skincare bottle packaging, colorful bath bomb, glossy plastic wrap, luxury gold branding, cartoon bubbles. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Natural soap bar mockup wrapped in recycled indigo paper printed with a white cyanotype herbal silhouette, uneven ink absorption, twine detail, calm apothecary product photography\nKeep the visual system coherent: indigo paper wrap, recycled paper, uneven ink absorption, natural apothecary product.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: skincare bottle packaging, colorful bath bomb, glossy plastic wrap, luxury gold branding, cartoon bubbles."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/soap-bar-paper-wrap.webp"
   },
   {
     "id": 21,
@@ -732,7 +732,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Specialty coffee bag packaging system using cyanotype blue botanical negative prints on warm matte paper pouches, white leaf silhouettes, clean label hierarchy, premium small-batch brand photography\nVisual direction: specialty coffee packaging; cyanotype blue on warm paper; matte pouch, paper label.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: coffee brand packaging.\nConstraints: avoid tea box packaging, colorful supermarket design, glossy plastic pouch, cluttered cafe table, cartoon beans. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Specialty coffee bag packaging system using cyanotype blue botanical negative prints on warm matte paper pouches, white leaf silhouettes, clean label hierarchy, premium small-batch brand photography\nKeep the visual system coherent: cyanotype blue on warm paper, matte pouch, paper label, specialty coffee packaging.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: tea box packaging, colorful supermarket design, glossy plastic pouch, cluttered cafe table, cartoon beans."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/botanical-coffee-bag-system.webp"
   },
   {
     "id": 22,
@@ -768,7 +768,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Gallery exhibition identity mockup featuring poster, ticket, and catalog cover with Prussian blue cyanotype botanical fragments, white negative silhouettes, uncoated paper texture, refined museum graphic system\nVisual direction: museum graphic identity; Prussian blue and white; uncoated paper, archival print grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: exhibition branding.\nConstraints: avoid museum facade, colorful event flyer, glossy corporate brochure, busy typography, neon signage. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Gallery exhibition identity mockup featuring poster, ticket, and catalog cover with Prussian blue cyanotype botanical fragments, white negative silhouettes, uncoated paper texture, refined museum graphic system\nKeep the visual system coherent: Prussian blue and white, uncoated paper, archival print grain, museum graphic identity.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: museum facade, colorful event flyer, glossy corporate brochure, busy typography, neon signage."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/gallery-exhibition-identity.webp"
   },
   {
     "id": 23,
@@ -803,7 +803,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Quiet luxury perfume carton mockup in deep indigo with white cyanotype flower trace, embossed paper texture, subtle chemical marks, simple glass bottle silhouette beside it, elegant minimal studio lighting\nVisual direction: quiet luxury fragrance; deep indigo carton; embossed paper, subtle chemical marks.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: fragrance packaging.\nConstraints: avoid skincare bottle set, gold luxury overload, bright floral photo, glossy plastic packaging, celebrity campaign. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Quiet luxury perfume carton mockup in deep indigo with white cyanotype flower trace, embossed paper texture, subtle chemical marks, simple glass bottle silhouette beside it, elegant minimal studio lighting\nKeep the visual system coherent: deep indigo carton, embossed paper, subtle chemical marks, quiet luxury fragrance.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: skincare bottle set, gold luxury overload, bright floral photo, glossy plastic packaging, celebrity campaign."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-perfume-carton.webp"
   },
   {
     "id": 24,
@@ -838,7 +838,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Natural beverage bottle label concept with cobalt blue cyanotype vine tendril silhouette on toothy paper stock, white negative linework, handmade label edge, understated editorial product photography\nVisual direction: natural beverage label; cobalt blue label; toothy label stock, handmade edges.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: beverage label design.\nConstraints: avoid alcohol party scene, colorful cocktail ad, glossy bottle render, gold foil label, supermarket shelf. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Natural beverage bottle label concept with cobalt blue cyanotype vine tendril silhouette on toothy paper stock, white negative linework, handmade label edge, understated editorial product photography\nKeep the visual system coherent: cobalt blue label, toothy label stock, handmade edges, natural beverage label.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: alcohol party scene, colorful cocktail ad, glossy bottle render, gold foil label, supermarket shelf."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/natural-wine-label-cyanotype.webp"
   },
   {
     "id": 25,
@@ -874,7 +874,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Boutique heritage hotel stationery system with key card sleeve, letterhead, and envelope printed in Prussian blue cyanotype pressed leaf motifs, cotton paper texture, debossed details, calm premium hospitality branding\nVisual direction: boutique hotel stationery; Prussian blue ink; cotton paper, debossed print.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: hospitality brand identity.\nConstraints: avoid restaurant branding, colorful travel brochure, glossy hotel lobby photo, corporate template, neon signage. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Boutique heritage hotel stationery system with key card sleeve, letterhead, and envelope printed in Prussian blue cyanotype pressed leaf motifs, cotton paper texture, debossed details, calm premium hospitality branding\nKeep the visual system coherent: Prussian blue ink, cotton paper, debossed print, boutique hotel stationery.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: restaurant branding, colorful travel brochure, glossy hotel lobby photo, corporate template, neon signage."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/heritage-hotel-stationery.webp"
   },
   {
     "id": 26,
@@ -909,7 +909,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Museum shop paper bag mockup printed with deep blue cyanotype archive motifs and white negative botanical fragments on natural recycled paper, minimal logo placement, elegant cultural retail packaging\nVisual direction: museum retail packaging; deep blue ink on natural paper; recycled paper grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: retail packaging.\nConstraints: avoid luxury shopping mall bag, glossy plastic, colorful souvenir graphics, busy brand pattern, 3d retail render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Museum shop paper bag mockup printed with deep blue cyanotype archive motifs and white negative botanical fragments on natural recycled paper, minimal logo placement, elegant cultural retail packaging\nKeep the visual system coherent: deep blue ink on natural paper, recycled paper grain, museum retail packaging.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: luxury shopping mall bag, glossy plastic, colorful souvenir graphics, busy brand pattern, 3d retail render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/museum-shop-paper-bag.webp"
   },
   {
     "id": 27,
@@ -944,7 +944,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Collectible postage stamp sheet design featuring tiny cyanotype botanical silhouettes, indigo and off-white palette, perforated archival paper, serial numbers, refined postal archive graphic system\nVisual direction: postal archive design; indigo and off-white; perforated paper, archival ink.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: collectible graphic system.\nConstraints: avoid colorful cartoon stamps, tourist postcard, glossy sticker sheet, modern app icon set, neon graphic. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Collectible postage stamp sheet design featuring tiny cyanotype botanical silhouettes, indigo and off-white palette, perforated archival paper, serial numbers, refined postal archive graphic system\nKeep the visual system coherent: indigo and off-white, perforated paper, archival ink, postal archive design.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful cartoon stamps, tourist postcard, glossy sticker sheet, modern app icon set, neon graphic."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/botanical-postage-stamp-series.webp"
   },
   {
     "id": 28,
@@ -979,7 +979,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Slow fashion silk scarf flatlay with white cyanotype leaf photogram pattern on deep indigo fabric, soft folds, subtle print grain, placed on pale stone, refined editorial accessory photography\nVisual direction: slow fashion accessory; deep indigo and white; soft silk, cyanotype print grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: fashion accessory mockup.\nConstraints: avoid model wearing dress, colorful scarf, glossy polyester, luxury logo pattern, busy styling props. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Slow fashion silk scarf flatlay with white cyanotype leaf photogram pattern on deep indigo fabric, soft folds, subtle print grain, placed on pale stone, refined editorial accessory photography\nKeep the visual system coherent: deep indigo and white, soft silk, cyanotype print grain, slow fashion accessory.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: model wearing dress, colorful scarf, glossy polyester, luxury logo pattern, busy styling props."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-silk-scarf-flatlay.webp"
   },
   {
     "id": 29,
@@ -1014,7 +1014,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Artisan workwear jacket concept in washed Prussian blue cotton canvas, white cyanotype plant-shadow panels across sleeves and back, visible stitching, sun-printed textile texture, clean garment presentation\nVisual direction: artisan workwear; washed Prussian blue; canvas cotton, sun-printed marks.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: fashion garment concept.\nConstraints: avoid sportswear campaign, human model, colorful streetwear, glossy leather jacket, futuristic armor. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Artisan workwear jacket concept in washed Prussian blue cotton canvas, white cyanotype plant-shadow panels across sleeves and back, visible stitching, sun-printed textile texture, clean garment presentation\nKeep the visual system coherent: washed Prussian blue, canvas cotton, sun-printed marks, artisan workwear.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: sportswear campaign, human model, colorful streetwear, glossy leather jacket, futuristic armor."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/cyanotype-workwear-jacket.webp"
   },
   {
     "id": 30,
@@ -1049,7 +1049,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Avant-garde runway look on an adult fashion model wearing layered indigo organza with white cyanotype botanical silhouettes, translucent fabric, sculptural volume, minimal dark runway, editorial high-fashion photography\nVisual direction: avant-garde runway; indigo blue and translucent white; sheer organza, photogram overlay.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: runway fashion concept.\nConstraints: avoid casual sportswear, swimsuit, explicit pose, colorful floral dress, glossy costume, cartoon fashion. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Avant-garde runway look on an adult fashion model wearing layered indigo organza with white cyanotype botanical silhouettes, translucent fabric, sculptural volume, minimal dark runway, editorial high-fashion photography\nKeep the visual system coherent: indigo blue and translucent white, sheer organza, photogram overlay, avant-garde runway.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: casual sportswear, swimsuit, explicit pose, colorful floral dress, glossy costume, cartoon fashion."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/runway-indigo-organza.webp"
   },
   {
     "id": 31,
@@ -1084,7 +1084,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Adult craftsperson in a quiet studio wearing a natural linen apron with cyanotype blue botanical pocket print, visible linen weave, handmade print edges, calm artisan lifestyle photography, hands arranging paper tools\nVisual direction: maker studio lifestyle; natural linen and cyanotype blue; linen weave, handmade print edge.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: craft lifestyle apparel.\nConstraints: avoid chef uniform, restaurant scene, colorful fashion shoot, glossy commercial kitchen, cartoon apron. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Adult craftsperson in a quiet studio wearing a natural linen apron with cyanotype blue botanical pocket print, visible linen weave, handmade print edges, calm artisan lifestyle photography, hands arranging paper tools\nKeep the visual system coherent: natural linen and cyanotype blue, linen weave, handmade print edge, maker studio lifestyle.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: chef uniform, restaurant scene, colorful fashion shoot, glossy commercial kitchen, cartoon apron."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/linen-apron-studio-craft.webp"
   },
   {
     "id": 32,
@@ -1119,7 +1119,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Contemporary dancer in a flowing deep cobalt costume printed with white cyanotype branch patterns, elegant motion blur, minimal studio floor, soft directional light, poetic performance fashion editorial\nVisual direction: contemporary dance editorial; deep cobalt fabric; flowing textile, blurred motion.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: performance fashion editorial.\nConstraints: avoid sportswear running track, explicit dance pose, colorful stage lights, fantasy costume, cartoon dancer. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Contemporary dancer in a flowing deep cobalt costume printed with white cyanotype branch patterns, elegant motion blur, minimal studio floor, soft directional light, poetic performance fashion editorial\nKeep the visual system coherent: deep cobalt fabric, flowing textile, blurred motion, contemporary dance editorial.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: sportswear running track, explicit dance pose, colorful stage lights, fantasy costume, cartoon dancer."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-dance-costume-motion.webp"
   },
   {
     "id": 33,
@@ -1154,7 +1154,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Close-up mockup of an upcycled denim jacket back panel with faded white cyanotype pressed flower silhouettes, washed denim twill texture, visible stitching, sustainable craft fashion detail\nVisual direction: upcycled denim detail; washed denim blue; denim twill, faded cyanotype print.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: denim customization concept.\nConstraints: avoid full model portrait, colorful embroidery, glossy leather, streetwear logo graphics, cartoon denim. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Close-up mockup of an upcycled denim jacket back panel with faded white cyanotype pressed flower silhouettes, washed denim twill texture, visible stitching, sustainable craft fashion detail\nKeep the visual system coherent: washed denim blue, denim twill, faded cyanotype print, upcycled denim detail.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: full model portrait, colorful embroidery, glossy leather, streetwear logo graphics, cartoon denim."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/botanical-denim-panel.webp"
   },
   {
     "id": 34,
@@ -1189,7 +1189,7 @@
       "nanoBanana": "Create a 4:5 image for a cyanotype prompt preset website.\nSubject: Indigo cyanotype sample card grid made of blue handmade paper rectangles with white botanical sun-print marks.\nVisual direction: minimal archival sample grid; indigo, cobalt, and Prussian blue; matte handmade paper texture with uneven exposure.\nComposition: clean studio framing, clear central layout, generous negative space, premium prompt-library thumbnail style.\nUse case: safe cyanotype sample board.\nConstraints: avoid neon colors, glossy plastic, cartoon styling, 3D rendering, and cluttered backgrounds.",
       "gptImage": "Generate a polished 1024x1280 image based on this cyanotype preset: Indigo cyanotype sample card grid made of blue handmade paper rectangles with white botanical sun-print marks.\nKeep the visual system coherent: indigo, cobalt, Prussian blue, matte handmade paper texture, minimal archival sample grid.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, refined composition, no visual clutter.\nDo not include neon colors, glossy plastic, cartoon styling, 3D rendering, or cluttered backgrounds."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/cyanotype-sample-card-grid.webp"
   },
   {
     "id": 35,
@@ -1224,7 +1224,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Fine art studio portrait of an adult person with soft botanical shadows crossing the face, rendered as a cyanotype print, monochrome Prussian blue and white, paper grain overlay, calm introspective expression, museum editorial aesthetic\nVisual direction: fine art studio portrait; monochrome cyanotype blue; paper grain overlay, botanical shadow.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: fine art portrait.\nConstraints: avoid celebrity likeness, glamour makeup, full color skin tones, neon lighting, plastic retouching, cartoon face. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Fine art studio portrait of an adult person with soft botanical shadows crossing the face, rendered as a cyanotype print, monochrome Prussian blue and white, paper grain overlay, calm introspective expression, museum editorial aesthetic\nKeep the visual system coherent: monochrome cyanotype blue, paper grain overlay, botanical shadow, fine art studio portrait.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: celebrity likeness, glamour makeup, full color skin tones, neon lighting, plastic retouching, cartoon face."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/cyanotype-face-shadow-portrait.webp"
   },
   {
     "id": 36,
@@ -1259,7 +1259,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Documentary-style portrait detail of an elderly Korean indigo artisan’s hands arranging plant specimens on hanji, jjokbit blue cyanotype mood, dye-stained fingertips, soft window light, respectful heritage craft atmosphere\nVisual direction: documentary craft portrait; jjokbit indigo; wrinkled hands, hanji paper, dye stains.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: heritage craft portrait.\nConstraints: avoid full fashion model, glossy beauty portrait, colorful workshop, exaggerated wrinkles, cartoon hands. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Documentary-style portrait detail of an elderly Korean indigo artisan’s hands arranging plant specimens on hanji, jjokbit blue cyanotype mood, dye-stained fingertips, soft window light, respectful heritage craft atmosphere\nKeep the visual system coherent: jjokbit indigo, wrinkled hands, hanji paper, dye stains, documentary craft portrait.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: full fashion model, glossy beauty portrait, colorful workshop, exaggerated wrinkles, cartoon hands."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/elder-indigo-artisan-hands.webp"
   },
   {
     "id": 37,
@@ -1294,7 +1294,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Conceptual cyanotype portrait of an adult figure partially overlaid with white archive labels and botanical silhouettes, deep indigo blue, double-exposure paper texture, anonymous reflective mood, contemporary art editorial\nVisual direction: conceptual archive portrait; deep indigo blue; double exposure paper texture.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: conceptual portrait.\nConstraints: avoid specific celebrity, colorful street portrait, sci-fi hologram, glossy magazine retouching, cartoon illustration. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Conceptual cyanotype portrait of an adult figure partially overlaid with white archive labels and botanical silhouettes, deep indigo blue, double-exposure paper texture, anonymous reflective mood, contemporary art editorial\nKeep the visual system coherent: deep indigo blue, double exposure paper texture, conceptual archive portrait.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: specific celebrity, colorful street portrait, sci-fi hologram, glossy magazine retouching, cartoon illustration."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/blue-archive-self-portrait.webp"
   },
   {
     "id": 38,
@@ -1329,7 +1329,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Experimental beauty editorial portrait of an adult model behind a translucent veil printed with white cyanotype botanical patterns, cobalt blue monochrome treatment, soft paper grain, quiet sculptural pose\nVisual direction: experimental beauty editorial; cobalt blue and white; soft veil, cyanotype paper grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: beauty editorial.\nConstraints: avoid explicit styling, colorful makeup ad, celebrity lookalike, glossy plastic veil, fantasy costume. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Experimental beauty editorial portrait of an adult model behind a translucent veil printed with white cyanotype botanical patterns, cobalt blue monochrome treatment, soft paper grain, quiet sculptural pose\nKeep the visual system coherent: cobalt blue and white, soft veil, cyanotype paper grain, experimental beauty editorial.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: explicit styling, colorful makeup ad, celebrity lookalike, glossy plastic veil, fantasy costume."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-hair-botanical-veil.webp"
   },
   {
     "id": 39,
@@ -1364,7 +1364,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Editorial portrait of an adult botanist standing beside specimen drawers and cyanotype sheets, rendered in Prussian blue monochrome, white negative highlights, archival paper grain, quiet historical science atmosphere\nVisual direction: historical science editorial; Prussian blue monochrome; archival paper grain.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: editorial character portrait.\nConstraints: avoid modern hospital lab, colorful lab coat, sci-fi scientist, glossy corporate portrait, cartoon character. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Editorial portrait of an adult botanist standing beside specimen drawers and cyanotype sheets, rendered in Prussian blue monochrome, white negative highlights, archival paper grain, quiet historical science atmosphere\nKeep the visual system coherent: Prussian blue monochrome, archival paper grain, historical science editorial.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: modern hospital lab, colorful lab coat, sci-fi scientist, glossy corporate portrait, cartoon character."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/scientist-in-blue-archive.webp"
   },
   {
     "id": 40,
@@ -1399,7 +1399,7 @@
       "nanoBanana": "Create a 3:4 image for a cyanotype prompt preset website.\nSubject: Minimal cyanotype side-profile portrait of an anonymous adult figure, white negative silhouette on deep cyanotype blue, contact print edge softness, handmade paper texture, silent archival mood\nVisual direction: minimal silhouette portrait; deep cyanotype blue; contact print edge, handmade paper.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: minimal editorial portrait.\nConstraints: avoid recognizable celebrity, colorful portrait photography, glamour lighting, 3d bust, cartoon profile. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1360 image based on this cyanotype preset: Minimal cyanotype side-profile portrait of an anonymous adult figure, white negative silhouette on deep cyanotype blue, contact print edge softness, handmade paper texture, silent archival mood\nKeep the visual system coherent: deep cyanotype blue, contact print edge, handmade paper, minimal silhouette portrait.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: recognizable celebrity, colorful portrait photography, glamour lighting, 3d bust, cartoon profile."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/anonymous-blue-silhouette.webp"
   },
   {
     "id": 41,
@@ -1434,7 +1434,7 @@
       "nanoBanana": "Create a 4:3 image for a cyanotype prompt preset website.\nSubject: Quiet reading corner interior with framed cyanotype botanical prints leaning above a linen armchair, Prussian blue accents, aged wood shelves, paper and linen textures, soft afternoon light, refined literary lifestyle mood\nVisual direction: quiet literary interior; Prussian blue accents; linen, paper, aged wood.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: interior decor scene.\nConstraints: avoid living room accent wall mural, colorful modern furniture, glossy interior render, cluttered decor, hotel lobby. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1360x1024 image based on this cyanotype preset: Quiet reading corner interior with framed cyanotype botanical prints leaning above a linen armchair, Prussian blue accents, aged wood shelves, paper and linen textures, soft afternoon light, refined literary lifestyle mood\nKeep the visual system coherent: Prussian blue accents, linen, paper, aged wood, quiet literary interior.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: living room accent wall mural, colorful modern furniture, glossy interior render, cluttered decor, hotel lobby."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/blue-reading-corner.webp"
   },
   {
     "id": 42,
@@ -1469,7 +1469,7 @@
       "nanoBanana": "Create a 4:3 image for a cyanotype prompt preset website.\nSubject: Artist studio scene with freshly washed cyanotype sheets drying on a wooden rack, indigo and white botanical negatives, wet paper texture, scattered brushes and glass trays, calm process documentary photography\nVisual direction: artist process documentary; indigo and white; wet paper, wooden rack, chemical stains.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: process lifestyle scene.\nConstraints: avoid finished product catalog, colorful art studio, messy paint splashes, glossy digital workspace, cartoon artist room. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1360x1024 image based on this cyanotype preset: Artist studio scene with freshly washed cyanotype sheets drying on a wooden rack, indigo and white botanical negatives, wet paper texture, scattered brushes and glass trays, calm process documentary photography\nKeep the visual system coherent: indigo and white, wet paper, wooden rack, chemical stains, artist process documentary.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: finished product catalog, colorful art studio, messy paint splashes, glossy digital workspace, cartoon artist room."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/artist-studio-drying-rack.webp"
   },
   {
     "id": 43,
@@ -1504,7 +1504,7 @@
       "nanoBanana": "Create a 4:3 image for a cyanotype prompt preset website.\nSubject: Morning tabletop still life with a cobalt blue cyanotype postcard, white botanical silhouette, ceramic cup, linen napkin, and soft window light, tactile matte paper textures, quiet lifestyle editorial\nVisual direction: morning tabletop editorial; cobalt blue paper; matte paper, ceramic, linen.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: lifestyle still life.\nConstraints: avoid restaurant branding setup, colorful brunch photo, glossy food magazine, crowded table, plastic props. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1360x1024 image based on this cyanotype preset: Morning tabletop still life with a cobalt blue cyanotype postcard, white botanical silhouette, ceramic cup, linen napkin, and soft window light, tactile matte paper textures, quiet lifestyle editorial\nKeep the visual system coherent: cobalt blue paper, matte paper, ceramic, linen, morning tabletop editorial.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: restaurant branding setup, colorful brunch photo, glossy food magazine, crowded table, plastic props."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/breakfast-table-blue-paper.webp"
   },
   {
     "id": 44,
@@ -1539,7 +1539,7 @@
       "nanoBanana": "Create a 4:3 image for a cyanotype prompt preset website.\nSubject: Small craft workshop shelves displaying cyanotype prints, indigo-wrapped paper goods, and textile samples, natural wood, handmade paper, quiet boutique retail atmosphere, soft daylight lifestyle photography\nVisual direction: small craft shop display; indigo product accents; wood, paper, textile.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: retail lifestyle scene.\nConstraints: avoid skincare packaging display, colorful souvenir shop, glossy mall retail, crowded store, neon signs. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1360x1024 image based on this cyanotype preset: Small craft workshop shelves displaying cyanotype prints, indigo-wrapped paper goods, and textile samples, natural wood, handmade paper, quiet boutique retail atmosphere, soft daylight lifestyle photography\nKeep the visual system coherent: indigo product accents, wood, paper, textile, small craft shop display.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: skincare packaging display, colorful souvenir shop, glossy mall retail, crowded store, neon signs."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/boutique-workshop-shelves.webp"
   },
   {
     "id": 45,
@@ -1574,7 +1574,7 @@
       "nanoBanana": "Create a 4:3 image for a cyanotype prompt preset website.\nSubject: Creative ritual desk scene with cyanotype test strips, an open notebook, plant clippings, old wood surface, deep Prussian blue paper fragments, quiet research atmosphere, tactile analog still life\nVisual direction: creative ritual workspace; deep Prussian blue; paper, ink, old wood.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: creative desk scene.\nConstraints: avoid tech desk setup, colorful stationery flatlay, glossy laptop workspace, cluttered office, cartoon desk. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1360x1024 image based on this cyanotype preset: Creative ritual desk scene with cyanotype test strips, an open notebook, plant clippings, old wood surface, deep Prussian blue paper fragments, quiet research atmosphere, tactile analog still life\nKeep the visual system coherent: deep Prussian blue, paper, ink, old wood, creative ritual workspace.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: tech desk setup, colorful stationery flatlay, glossy laptop workspace, cluttered office, cartoon desk."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/blue-ritual-desk.webp"
   },
   {
     "id": 46,
@@ -1609,7 +1609,7 @@
       "nanoBanana": "Create a 16:9 image for a cyanotype prompt preset website.\nSubject: Conceptual public bus stop canopy made of translucent cyanotype blue glass with white botanical negative patterns, sunlight casting leaf shadows onto concrete, poetic public infrastructure design, clean architectural visualization\nVisual direction: poetic public infrastructure; transparent cyanotype blue; glass, shadow, concrete.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: public design concept.\nConstraints: avoid museum facade, colorful billboard, crowded street, glossy sci-fi city, cartoon architecture. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1536x864 image based on this cyanotype preset: Conceptual public bus stop canopy made of translucent cyanotype blue glass with white botanical negative patterns, sunlight casting leaf shadows onto concrete, poetic public infrastructure design, clean architectural visualization\nKeep the visual system coherent: transparent cyanotype blue, glass, shadow, concrete, poetic public infrastructure.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: museum facade, colorful billboard, crowded street, glossy sci-fi city, cartoon architecture."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/botanical-bus-stop-canopy.webp"
   },
   {
     "id": 47,
@@ -1644,7 +1644,7 @@
       "nanoBanana": "Create a 16:9 image for a cyanotype prompt preset website.\nSubject: Public library wayfinding system with Prussian blue cyanotype-inspired signage, white botanical archive icons, matte metal panels, quiet corridor perspective, refined environmental graphic design\nVisual direction: library signage system; Prussian blue signage; matte metal, paper archive graphics.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: environmental graphic design.\nConstraints: avoid book cover mockup, colorful school signage, neon wayfinding, glossy mall interior, 3d cartoon library. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1536x864 image based on this cyanotype preset: Public library wayfinding system with Prussian blue cyanotype-inspired signage, white botanical archive icons, matte metal panels, quiet corridor perspective, refined environmental graphic design\nKeep the visual system coherent: Prussian blue signage, matte metal, paper archive graphics, library signage system.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: book cover mockup, colorful school signage, neon wayfinding, glossy mall interior, 3d cartoon library."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/indigo-library-wayfinding.webp"
   },
   {
     "id": 48,
@@ -1679,7 +1679,7 @@
       "nanoBanana": "Create a 16:9 image for a cyanotype prompt preset website.\nSubject: Experimental greenhouse architecture with cyanotype blue glass panels printed with white plant silhouettes, steel frame, misty interior light, layered botanical shadows, poetic sustainable design visualization\nVisual direction: experimental greenhouse design; cyanotype blue glass; mist, glass, plant shadows.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: architectural concept.\nConstraints: avoid museum facade, colorful botanical garden photo, sci-fi greenhouse, glossy luxury villa, cartoon glasshouse. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1536x864 image based on this cyanotype preset: Experimental greenhouse architecture with cyanotype blue glass panels printed with white plant silhouettes, steel frame, misty interior light, layered botanical shadows, poetic sustainable design visualization\nKeep the visual system coherent: cyanotype blue glass, mist, glass, plant shadows, experimental greenhouse design.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: museum facade, colorful botanical garden photo, sci-fi greenhouse, glossy luxury villa, cartoon glasshouse."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/cyanotype-greenhouse-panels.webp"
   },
   {
     "id": 49,
@@ -1714,7 +1714,7 @@
       "nanoBanana": "Create a 1:1 image for a cyanotype prompt preset website.\nSubject: Process-based abstract cyanotype texture made of chemical blooms, tide marks, and brush-applied sensitizer edges, layered indigo, cobalt, and Prussian blue, white accidental exposure traces, raw handmade paper fibers\nVisual direction: process-based abstraction; indigo, cobalt, Prussian blue; chemical blooms, tide marks, brush edges.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: abstract texture image.\nConstraints: avoid digital gradient, colorful abstract painting, glossy acrylic, vector wave background, 3d liquid render. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1024 image based on this cyanotype preset: Process-based abstract cyanotype texture made of chemical blooms, tide marks, and brush-applied sensitizer edges, layered indigo, cobalt, and Prussian blue, white accidental exposure traces, raw handmade paper fibers\nKeep the visual system coherent: indigo, cobalt, Prussian blue, chemical blooms, tide marks, brush edges, process-based abstraction.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: digital gradient, colorful abstract painting, glossy acrylic, vector wave background, 3d liquid render."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/chemical-tide-abstraction.webp"
   },
   {
     "id": 50,
@@ -1749,6 +1749,6 @@
       "nanoBanana": "Create a 1:1 image for a cyanotype prompt preset website.\nSubject: Minimal abstract cyanotype study using a circular mask, large white negative sun circle floating on deep cyanotype blue, grainy exposure texture, uneven coating borders, quiet process-focused poster\nVisual direction: minimal solar exposure study; deep cyanotype blue; grainy exposure, uneven coating.\nComposition: clean commercial framing, strong focal point, enough negative space for a website thumbnail, no awkward cropping.\nUse case: minimal abstract poster.\nConstraints: avoid colorful sun illustration, sci-fi planet, glossy vector circle, neon gradient, cartoon icon. Keep the image monochromatic or near-monochromatic in cyanotype blue and white unless the product material requires subtle neutral tones.",
       "gptImage": "Generate a polished 1024x1024 image based on this cyanotype preset: Minimal abstract cyanotype study using a circular mask, large white negative sun circle floating on deep cyanotype blue, grainy exposure texture, uneven coating borders, quiet process-focused poster\nKeep the visual system coherent: deep cyanotype blue, grainy exposure, uneven coating, minimal solar exposure study.\nMake it suitable for a premium prompt-library card: clear subject, elegant lighting, realistic materials, refined composition, no visual clutter.\nDo not include: colorful sun illustration, sci-fi planet, glossy vector circle, neon gradient, cartoon icon."
     },
-    "thumbnailImage": ""
+    "thumbnailImage": "images/thumbnails/negative-sun-circle.webp"
   }
 ]
