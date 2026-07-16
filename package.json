@@ -1,0 +1,23 @@
+{
+  "name": "cyanotype-prompt-library",
+  "version": "1.0.0",
+  "description": "GitHub + Vercel 배포용 정적 사이트 패키지입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paran-coder/Cyanotype-Prompt-Library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paran-coder/Cyanotype-Prompt-Library/issues"
+  },
+  "homepage": "https://github.com/paran-coder/Cyanotype-Prompt-Library#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
